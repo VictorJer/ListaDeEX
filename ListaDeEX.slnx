@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ListaDeEX.02/ListaDeEX.02.csproj" />
+  <Project Path="ListaDeEX.03/ListaDeEX.03.csproj" />
   <Project Path="ListaDeEX.ConsoleApp/ListaDeEX.ConsoleApp.csproj" />
 </Solution>
