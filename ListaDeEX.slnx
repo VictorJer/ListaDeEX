@@ -6,5 +6,6 @@
   <Project Path="ListaDeEx.06/ListaDeEx.06.csproj" />
   <Project Path="ListaDeEX.07/ListaDeEX.07.csproj" />
   <Project Path="ListaDeEX.08/ListaDeEX.08.csproj" />
+  <Project Path="ListaDeEX.09/ListaDeEX.09.csproj" />
   <Project Path="ListaDeEX.ConsoleApp/ListaDeEX.ConsoleApp.csproj" />
 </Solution>
