@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaDeEX.03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af4006f48cda954f01256934d2fd422794901304")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90ebe4d0f5c63639b679799de614385f01d0743f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaDeEX.03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaDeEX.03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
