@@ -12,6 +12,7 @@
   <Project Path="ListaDeEX.12/ListaDeEX.12.csproj" />
   <Project Path="ListaDeEX.13/ListaDeEX.13.csproj" />
   <Project Path="ListaDeEX.14/ListaDeEX.14.csproj" />
+  <Project Path="ListaDeEX.16/ListaDeEX.16.csproj" />
   <Project Path="ListaDeEX.ConsoleApp/ListaDeEX.ConsoleApp.csproj" />
   <Project Path="ListaEX.15/ListaDeEX.15.csproj" />
 </Solution>
